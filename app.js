@@ -439,10 +439,7 @@ function downloadWord(app) {
             <p>&nbsp;</p>
             <p>&nbsp;</p>
             <p>Диагностирование произвёл:</p>
-            <p>_______________ / Филимонова А.В. </p>
-            <p>(подпись)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Ф.И.О.)</p>
-            <p>Заказчик:</p>
-            <p>_______________ / ${app.fio}</p>
+            <p>_______________ / Филимонов А.В. </p>
             <p>(подпись)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Ф.И.О.)</p>
         </div>
         </body>
